@@ -4,9 +4,9 @@ void displayArray(int arr[],int);
 int main()
 {
     int size,counter;
-    printf("\n Enter the size of arrray");
+    printf("\n Enter the size of arrray :");
     scanf("%d",&size);
-    int arr[size];
+    int arr[50];
    acceptArray(arr,size);
    displayArray(arr,size);
 }
