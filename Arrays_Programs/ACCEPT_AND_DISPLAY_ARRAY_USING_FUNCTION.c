@@ -31,4 +31,4 @@ void displayArray(int arr[], int size)
     }
 
 
-} 
+}
