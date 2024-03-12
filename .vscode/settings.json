@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "tempCodeRunnerFile.C": "cpp",
-        "INCREMENT_DECREMENT_OPERATOR.C": "cpp"
+        "INCREMENT_DECREMENT_OPERATOR.C": "cpp",
+        "ARRAY_DEMO.C": "cpp"
     }
 }
