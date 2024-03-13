@@ -41,7 +41,7 @@
 //     int counter;
 //     //for(counter=0;counter<5;counter=counter+1)
 //     //{
-        scanf("%d",&marks[counter]);
+        // scanf("%d",&marks[counter]);
 //         printf("\n The marks are: %d \n",marks[counter]);
 //     //}
    

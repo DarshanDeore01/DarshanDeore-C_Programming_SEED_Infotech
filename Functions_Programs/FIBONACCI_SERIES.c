@@ -24,5 +24,6 @@ void printfibo(int num) {
             second = next;
         }
         printf("%d ", next);
+        break;
     }
 }

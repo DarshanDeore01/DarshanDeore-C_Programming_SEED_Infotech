@@ -3,9 +3,9 @@ void accept(int arr[], int size);
 int arrSort(int[],int,int);
 int main()
 {
-    int size,num_to_find;
+    int Size, num_to_find;
     printf("\n Enter the size of the array:");
-    scanf("%d",&size);
+    scanf("%d",&Size);
     int arr[size];
     accept(arr,size);
     printf("\n Enter the number to search:");

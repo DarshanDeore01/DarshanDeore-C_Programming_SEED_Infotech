@@ -5,12 +5,15 @@ int main() {
     int height = 10;
     
     printf("%c", 218);
-    for (int i = 0; i < width; i++) {
+    for (int i = 0; i < width; i++) 
+    {
         printf("%c", 196);
 
-        for (int i = 0; i < width; i++) {
+        for (int i = 0; i < width; i++)
+    {
         printf("%c", 196);
     }
     printf("%c\n", 191);
 
+}
 }

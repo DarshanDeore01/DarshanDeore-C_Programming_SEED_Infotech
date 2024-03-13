@@ -2,16 +2,16 @@
 int main()
 {
     int a;
-    printf("Enter the first number");
+    printf("\nEnter the first number");
     scanf("%d",&a);
-    printf("The first number is: %d",a);
+    printf("\nThe first number is: %d",a);
 
     int b;
-    printf("Enter the second number");
+    printf("\nEnter the second number");
     scanf("%d",&b);
-    printf("The entered number is %d",b);
+    printf("\nThe entered number is %d",b);
 
     int c= a+b;
-    printf("The total of two numbers is: %d",c);
+    printf("\nThe total of two numbers is: %d",c);
 
 }
